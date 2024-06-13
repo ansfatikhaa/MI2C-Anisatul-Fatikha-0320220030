@@ -1,0 +1,7 @@
+###
+POST http://localhost:8080/kirimPesan
+Content-Type: application/json
+
+{
+  "pesan" : "Ini dari dicky 063"
+}
